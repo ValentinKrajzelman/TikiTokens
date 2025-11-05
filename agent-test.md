@@ -6,3 +6,6 @@ Hello from functionality-tester! I am operational.
 Hello from backend-architect! I am operational.
 ## UX Researcher Agent
 Hello from ux-researcher! I am operational.
+
+## UI Designer Agent
+Hello from ui-designer! I am operational and ready to create beautiful interfaces!
